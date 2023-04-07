@@ -1,6 +1,6 @@
 const io = require("socket.io")(8000, {
     cors: {
-      origin: "https://dev6297.d2ihn8i5xki80d.amplifyapp.com/",
+      origin: "https://eventera.online",
     },
   });
   
